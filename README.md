@@ -6,8 +6,6 @@ OBJECTIVE : Use SQL queries to extract and analyze data from a database.
 <br>
 1. Connect to the Database
  access to the database through tool : MySQL Workbench
- <br>
- TASK3_MYSQL FINAL OUTPUT.sql
 <br>
 2. Extracting Data
 Used the SELECT statement to pull specific data from tables.
